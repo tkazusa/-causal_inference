@@ -9,6 +9,9 @@
 - 共変量：背景要因、つまり介入される以外の要因
 - 割り当て(treat)：介入を受ける要因
 - 交絡/交絡因子/疑似相関
+- 傾向スコア：テスト/コントロール群のデータ同士をマッチングする際に使うスコア
+- SUTVA
+- 強く無視できる割り当て条件
 
 ## ドナルド・ルービンの因果モデル
 - [central role of the propensity score in observational studies for causal effects | Biometrika | Oxford Academic
