@@ -24,4 +24,12 @@
 - テスト/コントロール群のデータに偏りが生じている場合
 
 ## 仮想現実(counterfactual)
-- 
+- 満たすべき2つの条件
+  - SUTVA
+  - 強く無視できる割り当て条件
+### SUTVA
+- SUTVA(Stable Unit Treatment Value Assumption)条件、各要素の目的変数は各要素に干渉せず、独立である」
+
+
+## 参考
+https://qiita.com/usaito/items/995bb9b6833f7d9e2178
