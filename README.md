@@ -55,5 +55,12 @@
 傾向スコアが同じ値をとるデータ間の共変量の分布」も見ておきたい。
 
 
+## Partial Dependence Plot(PDP)
+- https://dropout009.hatenablog.com/entry/2019/01/07/124214
+- Permutationベースの変数重要度を計算する
+
+- https://speakerdeck.com/nekoumei/detaanarisutogahuo-yong-dekiru-kamosirenai-ji-jie-xue-xi?slide=25
+- https://github.com/nekoumei/DGT_LT/blob/master/DataGatewayTalk_LT.ipynb
+
 ## 参考
 https://qiita.com/usaito/items/995bb9b6833f7d9e2178
